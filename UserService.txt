@@ -1,2 +1,5 @@
 Get the user data...
-process the datagit st
+process the datagit st 
+
+Create an avtar for the use.
+git 
